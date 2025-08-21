@@ -1,4 +1,4 @@
-### 🧠 Predict the Introverts from the Extroverts
+# 🧠 Predict the Introverts from the Extroverts
 
 This project focuses on building a classification model to distinguish between introverts and extroverts using behavioral and demographic features.
 
@@ -16,7 +16,7 @@ The dataset contains information about:
 The goal is to apply machine learning models to predict personality type (Introvert vs. Extrovert).
 
 ## 📁 Project Structure
-
+```
 Predict_the_Introverts_from_the_Extroverts/
 │── data/           # Raw and processed datasets
 │── notebooks/      # Jupyter notebooks with experiments
@@ -25,7 +25,7 @@ Predict_the_Introverts_from_the_Extroverts/
 │── requirements.txt
 │── README.md
 └── .gitignore
-
+```
 ## 🔧 Technologies & Libraries
 
 . Python 3.x
